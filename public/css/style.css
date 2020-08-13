@@ -1,0 +1,26 @@
+.ctrl_btns {
+    background-color: #4361b8;
+    color: #c7d0eb;
+    align-self: center;
+    align-content: center;
+}
+
+.ctrl_btns:hover {
+    color: #c7d0eb;
+    background-color: #002db3;
+}
+
+.drop_down {
+    height: 32px;
+    border-radius: 2px;
+}
+
+#mapid {
+    height: 450px; 
+    width: 60%;
+    margin-left: 32%;
+}
+
+.text {
+    color: white;
+}

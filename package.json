@@ -1,8 +1,8 @@
 {
-  "name": "template-node-react",
+  "name": "fairchange",
   "version": "1.0.0",
   "org": "yourorg",
-  "description": "12 UI Patterns written with React and Node.js",
+  "description": "Embrace Challenge Fair Change",
   "private": true,
   "engines": {
     "node": "^8.11.1"

@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/license-Apache2-blue.svg?style=flat" alt="Apache 2">
 </p>
 
-# React UI Patterns with Node.js
+# Fair Change Node/React Application with Cloudant Integration
 
 React is a popular framework for creating user interfaces in modular components. In this sample application, you will create a web application using Express and React to serve web pages in Node.js, complete with standard best practices, including a health check and application metric monitoring.
 
